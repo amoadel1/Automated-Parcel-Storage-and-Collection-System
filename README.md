@@ -1,2 +1,1 @@
-# Automated-Parcel-Storage-and-Collection-System
-Embedded Systems Mini Project using Raspberry Pi Pico, UART Communication, Conveyor Automation, PIN-Based Authentication, and Telegram Bot Integration for Automated Parcel Storage and Collection.
+IoT-Based Automated Parcel Storage and Collection System developed using dual Raspberry Pi Pico controllers, UART communication, conveyor automation, secure PIN authentication, and Telegram Bot integration for smart parcel management.
