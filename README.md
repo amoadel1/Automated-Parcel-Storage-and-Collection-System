@@ -302,12 +302,9 @@ The report includes:
 # Demonstration Video
 
 ```text
-Insert YouTube Demonstration Link Here
+[Insert YouTube Demonstration Link Here](https://youtu.be/w89yXCtu_S8?si=etVViC6-UAvduJDZ )
 ```
 
-Example:
-
-https://youtu.be/your_video_link
 
 ---
 
